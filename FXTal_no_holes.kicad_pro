@@ -339,7 +339,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "FXTal.kicad_pro",
+    "filename": "FXTal_no_holes.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -421,7 +421,7 @@
   },
   "sheets": [
     [
-      "67cbf043-4309-4177-9fcf-6b585db53611",
+      "d814800d-9c5d-4475-a62c-2c4223c12dc9",
       ""
     ]
   ],
