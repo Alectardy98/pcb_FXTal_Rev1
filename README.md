@@ -29,6 +29,6 @@ I did not clad the steel backplate in tape before mounting the PCB. The solder m
 
 
 | Special Thanks |
-djvs | for generial and overall help
-NeonKnight | for mesurments and reversenginering 
-purdeaandrei | for writing the QMK firmware to work with xwhatsit
+djvs - for generial and overall help
+NeonKnight - for mesurments and reversenginering 
+purdeaandrei - for writing the QMK firmware to work with xwhatsit
