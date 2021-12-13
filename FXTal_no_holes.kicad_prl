@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 44,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -64,8 +64,8 @@
       36,
       37
     ],
-    "visible_layers": "ffe10f0_ffffffff",
-    "zone_display_mode": 0
+    "visible_layers": "ffe11f0_ffffffff",
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "FXTal_no_holes.kicad_prl",
