@@ -2,9 +2,9 @@
 
 ### Rev. 1 
 
-This version is in prototyping phase. and it is unknown to function.
+This version has been tested and has been seen to function in both supported layouts.
+The tested pcb was orderd from JLCPCB with a 0.8 thickness
 
-It has not been tested with any keyboard.
 
 
 
