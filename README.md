@@ -1,2 +1,2 @@
 # FXTal_Rev2
- Fxtal Rev 2
+ Fxtal rev 2
