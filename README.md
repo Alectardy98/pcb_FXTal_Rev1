@@ -5,6 +5,7 @@
 
 ![FXTal Rev 1 Bottom](https://user-images.githubusercontent.com/61422584/179565470-c42fb73c-9dda-4921-adb6-3a8569d6f8ff.png)
 
+All Supported Layouts can be seen [HERE](http://www.keyboard-layout-editor.com/#/gists/daab9567d1fe4691fd52719a6adab8b0)
 
 xwhatsit/QMK atmega32u4 pcb for the IBM Model F XT and IBM Bigfoot
 
