@@ -8,9 +8,11 @@ The tested pcb was orderd from JLCPCB with a 0.8 thickness
 
 
 
-Capacitive pad measurements have been largly taken dvjs project the mtf-capacitive, Other mesurements have been taken by NeonKight and myself from an origonal IBM F XT.
+Capacitive pad footprints have been largly taken dvjs project the mtf-capacitive
+Other mesurements have been taken by NeonKight and myself from an origonal IBM F XT.
 
-The PCB thickness should be 0.6mm or 0.08mm. This is thin enough to allow the board to flex into shape.
+The PCB thickness should be 0.6mm or 0.08mm. This is thin enough to allow the board to flex into shape. 
+  - 0.8mm tested and working
 
 Standard glossy soldermask is probably the best choice. JLCPCB has had issues with wear on their black soldermask before. They have changed the formula, but a standard green/red/blue/yellow/purple/white/etc. glossy solder mask is probaby the safest bet for keyswitch wear resistance.
 Higher wear resistance might also be achieved by coating the front of the capacitive pads in silkscreen, as silkscreen is an extra layer of epoxy. I am unsure how this will affect keyfeel or actuation, however.
@@ -19,9 +21,9 @@ Higher wear resistance might also be achieved by coating the front of the capaci
 For connecting the board to an xwhatsit or other controller, I would recommend 3M 8132/06 100, which has the correct pitch for this board and xwhatsit:
 https://www.digikey.com/en/products/detail/3m/8132-06-100/7809902
 
-The key matrix of the PCB is custom, made by myself guided by dvjs. The connector is likely in a slightly different position.
+The key matrix of the PCB is custom, made by myself guided by dvjs. 
 
-I did not clad the steel backplate in tape before mounting the PCB. The solder mask should provide adequate isolation. Just make sure the steel is clean and there are no burrs/jagged edges that could scrape the PCB.
+This pcb requires an xwhatsit to function.
 
 
 | Authors |
