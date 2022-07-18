@@ -1,4 +1,4 @@
-# FXTal Rev. 0 
+# FXTal Rev. 1 
     A Drop In Replacement PCB For The IBM Model F XT
                                             
 ![FXTal Rev 1 Top](https://user-images.githubusercontent.com/61422584/179565412-8c3d6d32-b7e7-4cad-a85a-7e6a7c6160ef.png)
