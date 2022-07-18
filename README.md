@@ -23,8 +23,8 @@ https://www.digikey.com/en/products/detail/3m/8132-06-100/7809902
 
 The key matrix of the PCB is custom, made by myself guided by dvjs. 
 
-This pcb requires an xwhatsit to function.
-
+This pcb requires an xwhatsit to function, see purdeaandrei's open source files:
+https://github.com/purdeaandrei/SMDModelFController
 
 | Authors |
 | Alectardy98 |
