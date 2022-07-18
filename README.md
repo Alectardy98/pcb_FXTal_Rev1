@@ -11,7 +11,7 @@ xwhatsit/QMK atmega32u4 pcb for the IBM Model F XT and IBM Bigfoot
 This version has been tested and has shown to function properly in both supported layouts.
 - The firmware can be found in the firmware folder
 - All files for production though JLCPCB can be found in the JLCPCB folder
-- This PCB supports either the Teensy 2.0 or ATMEGA32u4-AU, ONLY ONE IS REQUIRED
+- This pcb requires an xwhatsit to function, see [purdeaandrei's open source files](https://github.com/purdeaandrei/SMDModelFController)
 
 The PCB thickness should be 0.6mm or 0.08mm. This is thin enough to allow the board to flex into shape.
 - 0.8mm tested and working
@@ -20,7 +20,7 @@ Standard glossy soldermask is probably the best choice. JLCPCB has had issues wi
 
 For connecting the board to an xwhatsit or other controller, I would recommend [3M 8132/06 100](https://www.digikey.com/en/products/detail/3m/8132-06-100/7809902), which has the correct pitch to connect this pcb to an xwhatsit
 
-This pcb requires an xwhatsit to function, see [purdeaandrei's open source files](https://github.com/purdeaandrei/SMDModelFController)
+
 
 Capacitive pad footprints have been taken dvjs project the mtf-capacitive Other mesurements have been taken by NeonKight and myself from an origonal IBM F XT. The key matrix of the PCB is custom, made by myself guided by dvjs and purdeaandrei.
 
