@@ -13,6 +13,9 @@ This version has been tested and has shown to function properly in both supporte
 - The firmware can be found in the firmware folder
 - All files for production though JLCPCB can be found in the JLCPCB folder
 - This pcb requires an xwhatsit to function, see [purdeaandrei's open source files](https://github.com/purdeaandrei/SMDModelFController)
+- Test Points are currently on the pcb, when building make sure to cover the bottom test points with eletrical tape to prevent a short
+- The origonal backplate will need to be modified to remove the right PCB mounting peg, to prevent interfearance
+- The barrel Plate will need to be modified, a scan of the required holes are provided in folder meta, to help with the task
 
 The PCB thickness should be 0.6mm or 0.08mm. This is thin enough to allow the board to flex into shape.
 - 0.8mm tested and working
