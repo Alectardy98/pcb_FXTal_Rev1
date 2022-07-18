@@ -24,12 +24,15 @@ For connecting the board to an xwhatsit or other controller, I would recommend [
 
 Capacitive pad footprints have been taken dvjs project the mtf-capacitive Other mesurements have been taken by NeonKight and myself from an origonal IBM F XT. The key matrix of the PCB is custom, made by myself guided by dvjs and purdeaandrei.
 
-| Authors | | Alectardy98 |
+Released without warranty, use at your own risk.  
+PRs & feedback welcome!
+
+| Authors | 
+
+Alectardy98
 
 | Special Thanks |
 
-djvs - for generial and overall help
-
-NeonKnight - for mesurments and reversenginering
-
-purdeaandrei - for writing the QMK firmware to work with xwhatsit
+djvs - for generial and overall help.   
+NeonKnight - for mesurments and reversenginering.   
+purdeaandrei - for writing the QMK firmware to work with xwhatsit.   
