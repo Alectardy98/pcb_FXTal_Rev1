@@ -1,9 +1,8 @@
 # FXTal Rev. 1 
     A Drop In Replacement PCB For The IBM Model F XT
                                             
-![FXTal Rev 1 Top](https://user-images.githubusercontent.com/61422584/179565412-8c3d6d32-b7e7-4cad-a85a-7e6a7c6160ef.png)
-
-![FXTal Rev 1 Bottom](https://user-images.githubusercontent.com/61422584/179565470-c42fb73c-9dda-4921-adb6-3a8569d6f8ff.png)
+![capture-2022-10-17T17_19_43 746Z](https://user-images.githubusercontent.com/61422584/196243552-a5a064a5-c939-44e2-9ccf-96c4a7816e3d.png)
+![capture-2022-10-17T17_19_39 296Z](https://user-images.githubusercontent.com/61422584/196243563-c2201b4e-bf77-47f9-9f8e-c3836fe7c786.png)
 
 All Supported Layouts can be seen [HERE](http://www.keyboard-layout-editor.com/#/gists/daab9567d1fe4691fd52719a6adab8b0)
 
